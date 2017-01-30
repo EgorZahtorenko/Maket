@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.yelow{
+    background-color: yellow;
+    width: 200px;
+    min-height: 100vh;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+}
+.red{
+    background-color: red;
+    width: 200px;
+
+}
+.green{
+    background-color: green;
+    height: 70px;
+}
+.white{
+    background-color: aqua;
+    flex-grow: 1;
+}
+.rw{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-grow: 1;
+}

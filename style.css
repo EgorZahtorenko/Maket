@@ -24,7 +24,6 @@ body{
     height: 70px;
 }
 .white{
-    background-color: aqua;
     flex-grow: 1;
 }
 .rw{
